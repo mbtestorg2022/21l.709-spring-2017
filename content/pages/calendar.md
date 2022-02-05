@@ -4,35 +4,357 @@ title: Calendar
 uid: 0443e006-bde5-f9ca-3ac3-36114b2f01a7
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | _The Octoroon_ (Boucicault); _An Octoroon_ (Jacob-Jenkins) | &nbsp; |
-| {{< td-colspan 3 >}}**Migrations**{{< /td-colspan >}} |||
-| 3 | _Jazz_ | &nbsp; |
-| 4 | _Jazz_ (cont.) | &nbsp; |
-| 5 | _The Brief Wondrous Life of Oscar Wao_ | &nbsp; |
-| 6 | _The Brief Wondrous Life of Oscar Wao_ (cont.) | &nbsp; |
-| 7 | _Maus I_ | &nbsp; |
-| 8 | _Maus I_ (cont.) | Essay 1 due |
-| {{< td-colspan 3 >}}**Coming of Age**{{< /td-colspan >}} |||
-| 9 | _The House on Mango Street_ | &nbsp; |
-| 10 | _Unaccustomed Earth_ ("Hema and Kaushik") | &nbsp; |
-| 11 | _The Girl in the Tangerine Scarf_ | &nbsp; |
-| 12 | _The Girl in the Tangerine Scarf_ (cont.) | &nbsp; |
-| 13 | _The Girl in the Tangerine Scarf_ (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Culture and Narratives**{{< /td-colspan >}} |||
-| 14 | _The Girl in the Tangerine Scarf_ (cont.) | Essay 2 due |
-| 15 | _Stars in My Pocket Like Grains of Sand_ (Excerpt to p. 92) | &nbsp; |
-| 16 | _The Round House_ | &nbsp; |
-| 17 | _The Round House_ (cont.) | &nbsp; |
-| 18 | _The Round House_ (cont.) | &nbsp; |
-| 19 | Conference Reports | &nbsp; |
-| 20 | Special Guest: [Mia Heavener](https://www.alaskapacific.edu/people/mia-heavener/) | &nbsp; |
-| 21 | Conference Reports (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**The Return**{{< /td-colspan >}} |||
-| 22 | _The Reluctant Fundamentalist_ | &nbsp; |
-| 23 | _A Tale for the Time Being_ | &nbsp; |
-| 24 | _A Tale for the Time Being_ (cont.) | &nbsp; |
-| 25 | _A Tale for the Time Being_ (cont.) | &nbsp; |
-| 26 | _A Tale for the Time Being_ (cont.) | Essay 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_The Octoroon_ (Boucicault); _An Octoroon_ (Jacob-Jenkins)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Migrations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Jazz_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Jazz_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_The Brief Wondrous Life of Oscar Wao_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_The Brief Wondrous Life of Oscar Wao_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Maus I_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Maus I_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Coming of Age**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_The House on Mango Street_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Unaccustomed Earth_ ("Hema and Kaushik")
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_The Girl in the Tangerine Scarf_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_The Girl in the Tangerine Scarf_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_The Girl in the Tangerine Scarf_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Culture and Narratives**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_The Girl in the Tangerine Scarf_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Stars in My Pocket Like Grains of Sand_ (Excerpt to p. 92)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_The Round House_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_The Round House_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_The Round House_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Conference Reports
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Special Guest: [Mia Heavener](https://www.alaskapacific.edu/people/mia-heavener/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Conference Reports (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**The Return**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_The Reluctant Fundamentalist_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_A Tale for the Time Being_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_A Tale for the Time Being_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_A Tale for the Time Being_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_A Tale for the Time Being_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

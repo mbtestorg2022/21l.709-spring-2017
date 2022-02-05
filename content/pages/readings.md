@@ -16,35 +16,393 @@ uid: 536382e0-ef6f-655a-0573-05d0a16861ee
 
 \[RO\] = Ozeki, Ruth. _A Tale for the Time Being_. Penguin Books, 2013. ISBN: 9780143124870. \[Preview with [Google Books](https://books.google.com/books?id=lsItpf9T9qAC&lpg=PP1&dq=Ruth%20Ozeki%2C%20A%20Tale%20for%20the%20Time%20Being&pg=PP1#v=onepage&q=Ruth%20Ozeki,%20A%20Tale%20for%20the%20Time%20Being&f=false)\]
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | No assigned readings |
-| 2 | _The Octoroon_ |  {{< br >}}{{< br >}} Boucicault, Dion. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Octoroon_. (PDF)](http://www.searchengine.org.uk/ebooks/70/69.pdf) {{< br >}}{{< br >}} Jacobs-Jenkins, Branden. _An Octoroon_. Dramatist's Play Service, 2015. ISBN: 9780822232261. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Migrations**{{< /td-colspan >}} |||
-| 3 | _Jazz_ | \[TM\] pp. 4–114. |
-| 4 | _Jazz_ (cont.) | \[TM\] pp. 117–229. |
-| 5 | _The Brief Wondrous Life of Oscar Wao_ | \[JD\] As close to pg. 165 as possible. |
-| 6 | _The Brief Wondrous Life of Oscar Wao_ (cont.) | \[JD\] As close to finished as possible. |
-| 7 | _Maus I_ |  {{< br >}}{{< br >}} \[JD\] Complete. {{< br >}}{{< br >}} Spiegelman, Art. "Maus I." In _Maus: A Survivor's Tale_. Box set edition. Pantheon, 1993. ISBN: 9780679748403. {{< br >}}{{< br >}}  |
-| 8 | _Maus I_ (cont.) | No assigned readings |
-| {{< td-colspan 3 >}}**Coming of Age**{{< /td-colspan >}} |||
-| 9 | _The House on Mango Street_ |  {{< br >}}{{< br >}} Cisneros, Sandra. _The House on Mango Street_. Vintage, 1991. ISBN: 9780679734772. {{< br >}}{{< br >}}  |
-| 10 | _Unaccustomed Earth_ |  {{< br >}}{{< br >}} Lahiri, Jhumpa. "Part Two: Hema and Kaushik." In _Unaccustomed Earth_. Reprint edition. Vintage, 2009. ISBN: 9780307278258. {{< br >}}{{< br >}}  |
-| 11 | _The Girl in the Tangerine Scarf_ | \[MK\] pp. 1–155. |
-| 12 | _The Girl in the Tangerine Scarf_ (cont.) | \[MK\] pp. 156–297. |
-| 13 | _The Girl in the Tangerine Scarf_ (cont.) | \[MK\] pp. 298–441. |
-| {{< td-colspan 3 >}}**Culture and Narratives**{{< /td-colspan >}} |||
-| 14 | _The Girl in the Tangerine Scarf_ (cont.) | No assigned readings |
-| 15 | _Stars in My Pocket Like Grains of Sand_ |  {{< br >}}{{< br >}} Delany, Samuel R. "Excerpt to pg. 92." In _Stars in My Pocket Like Grains of Sand_. 20th edition. Wesleyan, 2004. ISBN: 9780819567147. \[Preview with [Google Books](https://books.google.com/books?id=bRAFCAAAQBAJ&lpg=PP1&dq=Samuel%20Delany%2C%20Stars%20in%20My%20Pocket%20Like%20Grains%20of%20Sand&pg=PP1#v=onepage&q&f=false)\] {{< br >}}{{< br >}}  |
-| 16 | _The Round House_ | \[LE\] pp. 1–108. |
-| 17 | _The Round House_ (cont.) | \[LE\] pp. 109–201. |
-| 18 | _The Round House_ (cont.) | \[LE\] pp. 202–317. |
-| 19 | Conference Reports | No assigned readings |
-| 20 | Special Guest: [Mia Heavener](https://www.alaskapacific.edu/people/mia-heavener/) |  {{< br >}}{{< br >}} Excerpt from Mia Heavener's forthcoming book, _Under Nushagak Bluff_, from Red Hen Press (not available). OCW users may read the following story as a substitution: {{< br >}}{{< br >}} Heavener, Mia C. "[Blurry](http://www.cortlandreview.com/issue/51/heavener_f.html)." _The Cortland Review_. May 2011. {{< br >}}{{< br >}}  |
-| 21 | Conference Reports (cont.) | No assigned readings |
-| {{< td-colspan 3 >}}**The Return**{{< /td-colspan >}} |||
-| 22 | _The Reluctant Fundamentalist_ | \[MH\] pp. 1–138. |
-| 23 | _A Tale for the Time Being_ |  {{< br >}}{{< br >}} \[MH\] Complete. {{< br >}}{{< br >}} \[RO\] pp. 1–108. {{< br >}}{{< br >}}  |
-| 24 | _A Tale for the Time Being_ (cont.) | \[RO\] pp. 109–258. |
-| 25 | _A Tale for the Time Being_ (cont.) | \[RO\] pp. 259–416. |
-| 26 | _A Tale for the Time Being_ (cont.) | No assigned readings
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_The Octoroon_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Boucicault, Dion. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Octoroon_. (PDF)](http://www.searchengine.org.uk/ebooks/70/69.pdf)
+
+Jacobs-Jenkins, Branden. _An Octoroon_. Dramatist's Play Service, 2015. ISBN: 9780822232261.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Migrations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Jazz_
+{{< tdclose >}}
+{{< tdopen >}}
+\[TM\] pp. 4–114.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Jazz_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[TM\] pp. 117–229.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_The Brief Wondrous Life of Oscar Wao_
+{{< tdclose >}}
+{{< tdopen >}}
+\[JD\] As close to pg. 165 as possible.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_The Brief Wondrous Life of Oscar Wao_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[JD\] As close to finished as possible.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Maus I_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[JD\] Complete.
+
+Spiegelman, Art. "Maus I." In _Maus: A Survivor's Tale_. Box set edition. Pantheon, 1993. ISBN: 9780679748403.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Maus I_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Coming of Age**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_The House on Mango Street_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cisneros, Sandra. _The House on Mango Street_. Vintage, 1991. ISBN: 9780679734772.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Unaccustomed Earth_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lahiri, Jhumpa. "Part Two: Hema and Kaushik." In _Unaccustomed Earth_. Reprint edition. Vintage, 2009. ISBN: 9780307278258.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_The Girl in the Tangerine Scarf_
+{{< tdclose >}}
+{{< tdopen >}}
+\[MK\] pp. 1–155.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_The Girl in the Tangerine Scarf_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[MK\] pp. 156–297.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_The Girl in the Tangerine Scarf_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[MK\] pp. 298–441.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Culture and Narratives**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_The Girl in the Tangerine Scarf_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Stars in My Pocket Like Grains of Sand_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Delany, Samuel R. "Excerpt to pg. 92." In _Stars in My Pocket Like Grains of Sand_. 20th edition. Wesleyan, 2004. ISBN: 9780819567147. \[Preview with [Google Books](https://books.google.com/books?id=bRAFCAAAQBAJ&lpg=PP1&dq=Samuel%20Delany%2C%20Stars%20in%20My%20Pocket%20Like%20Grains%20of%20Sand&pg=PP1#v=onepage&q&f=false)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_The Round House_
+{{< tdclose >}}
+{{< tdopen >}}
+\[LE\] pp. 1–108.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_The Round House_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[LE\] pp. 109–201.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_The Round House_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[LE\] pp. 202–317.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Conference Reports
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Special Guest: [Mia Heavener](https://www.alaskapacific.edu/people/mia-heavener/)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Excerpt from Mia Heavener's forthcoming book, _Under Nushagak Bluff_, from Red Hen Press (not available). OCW users may read the following story as a substitution:
+
+Heavener, Mia C. "[Blurry](http://www.cortlandreview.com/issue/51/heavener_f.html)." _The Cortland Review_. May 2011.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Conference Reports (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**The Return**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_The Reluctant Fundamentalist_
+{{< tdclose >}}
+{{< tdopen >}}
+\[MH\] pp. 1–138.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_A Tale for the Time Being_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[MH\] Complete.
+
+\[RO\] pp. 1–108.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_A Tale for the Time Being_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[RO\] pp. 109–258.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_A Tale for the Time Being_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[RO\] pp. 259–416.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_A Tale for the Time Being_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned readings
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
