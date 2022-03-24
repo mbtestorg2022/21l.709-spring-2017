@@ -10,7 +10,7 @@ Further Readings
 [A Brief History of Literature in the Western Canon  
 ]({{< baseurl >}}/pages/related-resources/a-brief-history-of-literature-in-the-western-canon)With apologies for the broad generalizations . . .
 
-Freud, Sigmund.![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ["The ‘Uncanny’." (PDF)](http://www.arch.mcgill.ca/prof/bressani/arch653/winter2010/Freud_TheUncanny.pdf) _The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume XVII (1917–1919): An Infantile Neurosis and Other Works_, pp. 217–256.
+Freud, Sigmund. ["The ‘Uncanny’." (PDF)](http://www.arch.mcgill.ca/prof/bressani/arch653/winter2010/Freud_TheUncanny.pdf) _The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume XVII (1917–1919): An Infantile Neurosis and Other Works_, pp. 217–256.
 
 Saldaña, Stephanie. "[In a Refugee's Bags, Memories of Home](https://www.nytimes.com/2017/03/11/opinion/sunday/in-a-refugees-bags-memories-of-home.html?ref=opinion)." _The New York Times_. March 11, 2017.
 

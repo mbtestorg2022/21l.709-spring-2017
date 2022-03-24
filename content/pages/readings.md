@@ -54,7 +54,7 @@ _The Octoroon_
 {{< tdopen >}}
 
 
-Boucicault, Dion. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Octoroon_. (PDF)](http://www.searchengine.org.uk/ebooks/70/69.pdf)
+Boucicault, Dion. [_The Octoroon_. (PDF)](http://www.searchengine.org.uk/ebooks/70/69.pdf)
 
 Jacobs-Jenkins, Branden. _An Octoroon_. Dramatist's Play Service, 2015. ISBN: 9780822232261.
 
